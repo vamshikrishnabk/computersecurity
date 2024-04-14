@@ -6,7 +6,7 @@ from pathlib import Path
 smtp_server = 'smtp.gmail.com'  
 smtp_port = 587  
 smtp_username = 'untsegroup@gmail.com'  
-smtp_password = 'rhwv dptm mxpi lriz' 
+smtp_password = '' #pwd 
 
 
 
